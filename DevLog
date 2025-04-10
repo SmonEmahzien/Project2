@@ -1,0 +1,23 @@
+DevLog
+
+Day 1:
+Set up the project and create the Git Repository 
+planned structure
+using pythons threading module
+
+Day 2:
+Devlop the Teller and customer class
+added the basic flow, customers go to the tellers and they handle deposits and the withdrawls
+Introcuded Semaphores
+
+Day 3:
+Added synchronization
+fine tune semaphore logic
+Tested manager permision
+
+Day 4:
+Completed final stage of testing
+Looked for edge cases
+Cleaned up code
+push the final code to github
+
